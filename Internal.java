@@ -11,3 +11,5 @@ public class Internal{
     else{
       System.out.println(a-b);
     }
+  }
+}
